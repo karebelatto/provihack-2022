@@ -17,7 +17,7 @@ TEMA: COMO A TECNOLOGIA PODE COMBATER AS MUDANÇAS CLIMÁTICAS E SEUS IMPACTOS
 
 Clone este repositório em sua máquina
 
-<--! $  -->
+<!-- $  -->
 
 ### Estruturação e Ferramentas
 
