@@ -15,7 +15,7 @@ TEMA: COMO A TECNOLOGIA PODE COMBATER AS MUDANÇAS CLIMÁTICAS E SEUS IMPACTOS
 
 #### COMO INICIAR ESSE PROJETO
 
-Clone este repositório em sua máquina
+- Clone este repositório em sua máquina
 
 <!-- $  -->
 
@@ -30,16 +30,16 @@ Clone este repositório em sua máquina
 
 ## PROFISSIONAIS RESPONSÁVEIS:
 
-#### DAYANA GUIMARÃES
+#### - DAYANA GUIMARÃES
 
-#### DIÉVILLE LEANDRO
+#### - DIÉVILLE LEANDRO
 
-#### GABRIEL ALVES
+#### - GABRIEL ALVES
 
-#### JOÃO PEDRO 
+#### - JOÃO PEDRO 
 
-#### KARINE LIMA
+#### - KARINE LIMA
 
-#### KARINE REBELATTO
+#### - KARINE REBELATTO
 
-#### LETÍCIA SOARES
+#### - LETÍCIA SOARES
