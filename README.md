@@ -19,13 +19,13 @@ TEMA: COMO A TECNOLOGIA PODE COMBATER AS MUDANÇAS CLIMÁTICAS E SEUS IMPACTOS
 
 <!-- $  -->
 
-#### Estruturação e Ferramentas
+### Estruturação e Ferramentas
 
-### FRONT-END
+#### FRONT-END
 
-### BACK-END
+#### BACK-END
 
-#### LINK DO SITE
+##### LINK DO SITE
 
 
 ## PROFISSIONAIS RESPONSÁVEIS:
