@@ -34,7 +34,7 @@ Hackathon da Provi do 1° semestre de 2022
 ### Sobre o Site
 -
 
-#### Funcionalidades e demonstração de Aplicação
+#### Funcionalidades e demonstração da Aplicação
 
 - Clone este repositório em sua máquina
 
