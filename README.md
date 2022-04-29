@@ -10,33 +10,31 @@ Hackathon da Provi do 1° semestre de 2022
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
-## Índice 
 
-* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
-* [Índice](#índice)
-* [Descrição do Projeto](#nom-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Tema](#Tema)
+* [Descrição do Projeto](#Descrição-do-Projeto)
+* [Sobre o Site](#Sobre-o-site)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação))
 * [Tecnologias utilizadas](#Estruturação-e-Ferramentas)
 * [Pessoas Contribuidoras](#Contribuidores)
+* [Acesso ao Projeto](#acesso-ao-projeto)
 
 
 
 
-#### NOME DO PROJETO
+#### Descrição do Projeto
 <h1 align="center"> NOME DO PROJETO AQUI </h1>
 
-### EXPLICAR SOBRE O PROJETO
+
 -
 
-### OBJETIVO
+
 -
 
-### SOBRE O SITE
+### Sobre o Site
 -
 
-#### COMO INICIAR ESSE PROJETO
+#### Funcionalidades e demonstração de Aplicação
 
 - Clone este repositório em sua máquina
 
@@ -50,7 +48,7 @@ Hackathon da Provi do 1° semestre de 2022
 #### BACK-END
 -
 
-##### LINK DO SITE
+##### Acesso ao Projeto
 -----
 
 
