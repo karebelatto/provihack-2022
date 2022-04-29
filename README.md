@@ -10,6 +10,20 @@ Hackathon da Provi do 1° semestre de 2022
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
 </p>
 
+## Índice 
+
+* [Título e Imagem de capa](#Título-e-Imagem-de-capa)
+* [Índice](#índice)
+* [Descrição do Projeto](#nom-do-projeto)
+* [Status do Projeto](#status-do-Projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Tecnologias utilizadas](#Estruturação-e-Ferramentas)
+* [Pessoas Contribuidoras](#Contribuidores)
+
+
+
+
 #### NOME DO PROJETO
 <h1 align="center"> NOME DO PROJETO AQUI </h1>
 
@@ -40,7 +54,7 @@ Hackathon da Provi do 1° semestre de 2022
 -----
 
 
-## PROFISSIONAIS RESPONSÁVEIS:
+## Contribuidores:
 
 #### - DAYANA GUIMARÃES
 -
