@@ -57,9 +57,6 @@ Hackathon da Provi do 1° semestre de 2022
 #### - DAYANA GUIMARÃES
 -
 
-#### - DIÉVILLE LEANDRO
--
-
 #### - LETÍCIA SOARES
 -
 
