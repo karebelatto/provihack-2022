@@ -1,6 +1,5 @@
 /* eslint-disable react/destructuring-assignment */
 import { createContext, useContext } from 'react';
-
 import { useUser } from './userStore';
 
 const storesCtx = createContext(null);

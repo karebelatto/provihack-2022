@@ -1,27 +1,36 @@
 import './style.css';
 
+import { useForm } from 'react-hook-form';
+import { Link, useNavigate } from 'react-router-dom';
+
 import api from '../../services/api';
 import { useStores } from '../../stores';
-import { useForm } from 'react-hook-form';
-import { Link, useHistory } from 'react-router-dom';
 
 export function CreateUser() {
-	const { register, handleSubmit } = useForm();
+  const { register, handleSubmit } = useForm();
   const { userStore: { setUserData, setToken } } = useStores();
 
-  const history = useHistory();
-  async function onSubmit({ fullName, userName, phone, email, address, password, confimPassword }) {
+  const navigate = useNavigate();
+  async function onSubmit({
+    fullName,
+    userName,
+    phone,
+    email,
+    address,
+    password,
+    confimPassword,
+  }) {
     try {
       const body = {
-        fullName, 
-        userName, 
-        phone, 
-        email, 
+        fullName,
+        userName,
+        phone,
+        email,
         address,
-        password, 
+        password,
         confimPassword,
-      }
-      
+      };
+
       const result = await api.post('/create-user', body);
 
       if (result.status !== 200) {
@@ -31,8 +40,8 @@ export function CreateUser() {
       const { data: { token, user: userData } } = result;
       setToken(token);
       setUserData(userData);
-      
-      history.push(`/home`);      
+
+      navigate.push('/home');
     } catch (error) {
       if (error.request) {
         console.log('error', error.request.response);
@@ -42,18 +51,21 @@ export function CreateUser() {
 
   return (
     <div>
-			<form onSubmit={handleSubmit(onSubmit)}>
-				<h1>Cadastro</h1>
-				<input type="text" placeholder="Nome de Usuario" {...register('userName', { required: true })} /> <br />
-				<input type="text" placeholder="Nome Completo" {...register('fullName', { required: true })} /> <br />
-				<input type="text" placeholder="Telefone" {...register('phone', { required: true })} /> <br />
-				<input type="text" placeholder="Email" {...register('email', { required: true })} /> <br />
-				<input type="text" placeholder="Endereço" {...register('address', { required: true })} /> <br />
-				<input type="password" placeholder="Senha" {...register('password', { required: true })} /> <br />
-				<input type="password" placeholder="Confime a Senha" {...register('confimPassword', { required: true })} /> <br />
-				<button type='submit'>Cadastro</button>
-        <h5>Já possui uma conta? <Link to='/login'>Faça Login</Link></h5>
-			</form>
-		</div>
+      <form onSubmit={handleSubmit(onSubmit)}>
+        <h1>Cadastro</h1>
+        <input type="text" placeholder="Nome de Usuario" {...register('userName', { required: true })} />
+        <input type="text" placeholder="Nome Completo" {...register('fullName', { required: true })} />
+        <input type="text" placeholder="Telefone" {...register('phone', { required: true })} />
+        <input type="text" placeholder="Email" {...register('email', { required: true })} />
+        <input type="text" placeholder="Endereço" {...register('address', { required: true })} />
+        <input type="password" placeholder="Senha" {...register('password', { required: true })} />
+        <input type="password" placeholder="Confime a Senha" {...register('confimPassword', { required: true })} />
+        <button type="submit">Cadastro</button>
+        <h5>
+          Já possui uma conta?
+          <Link to="/login">Faça Login</Link>
+        </h5>
+      </form>
+    </div>
   );
 }

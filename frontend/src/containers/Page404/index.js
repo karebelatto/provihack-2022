@@ -7,7 +7,7 @@ export function Page404() {
     <div>
       <h2> Ops! </h2>
       <p> Página não encontrada </p>
-      <Link to={('/home')}> <button> Página inicial </button> </Link>
+      <button><Link to="/home">Página inicial</Link></button>
     </div>
   );
 }

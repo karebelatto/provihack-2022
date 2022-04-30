@@ -1,6 +1,7 @@
-import api from '../../services/api';
-
 import { useEffect } from 'react';
+import { useStores } from '../../stores';
+
+import api from '../../services/api';
 
 export function Home() {
   const { userStore: { products, setProducts } } = useStores();
@@ -20,9 +21,9 @@ export function Home() {
         console.log('error', error.request.response);
       }
     }
-  }
-  
-  useEffect(() => { getProducts() }, []);
+  };
+
+  useEffect(() => { getProducts(); }, []);
 
   const productsInfo = products;
 
@@ -30,5 +31,5 @@ export function Home() {
     <div>
       home
     </div>
-  ) 
+  );
 }

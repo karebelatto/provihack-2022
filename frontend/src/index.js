@@ -1,14 +1,15 @@
 import './index.css';
 
 import React from 'react';
-import App from './app/App';
 import ReactDOM from 'react-dom';
 
-import { StoresProvider } from './stores';
-import { ToastContainer } from 'react-toastify';
 import { BrowserRouter } from 'react-router-dom';
+import { ToastContainer } from 'react-toastify';
+import { StoresProvider } from './stores';
 
-ReactDOM.render(
+import App from './app/App';
+
+ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
     <StoresProvider>
       <BrowserRouter>
@@ -17,5 +18,4 @@ ReactDOM.render(
       </BrowserRouter>
     </StoresProvider>
   </React.StrictMode>,
-  document.getElementById('root'),
 );
