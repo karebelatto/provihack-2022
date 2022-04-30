@@ -19,9 +19,9 @@ export function Router() {
     <Routes>
       <Route path="/" element={<Navigate replace to="/home" />} />
       <Route path="/home" element={<Home />} />
-      <Route path="/login" component={<Login />} />
-      <Route path="/register" component={<CreateUser />} />
-      <Route path="*" component={<Page404 />} />
+      <Route path="/login" element={<Login />} />
+      <Route path="/register" element={<CreateUser />} />
+      <Route path="*" element={<Page404 />} />
     </Routes>
   );
 }

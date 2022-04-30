@@ -1,4 +1,5 @@
 import { useEffect } from 'react';
+import { Link } from 'react-router-dom';
 import { useStores } from '../../stores';
 
 import api from '../../services/api';
@@ -30,6 +31,7 @@ export function Home() {
   return (
     <div>
       home
+      <Link to="/register">Registre-se</Link>
     </div>
   );
 }
