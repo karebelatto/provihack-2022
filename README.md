@@ -70,6 +70,10 @@ Hackathon da Provi do 1° semestre de 2022
 -
 
 #### - KARINE REBELATTO
+
+
+| [<img src="hhttps://avatars.githubusercontent.com/u/80927197?s=400&u=f992e4cc01373b4153d3f17ad4de9c5f6cf62f1c&v=4" width=115><br><sub>Karine Rebelatto</sub>](https://github.com/karebelatto) |  [<img src="https://avatars.githubusercontent.com/u/46169735?v=4" width=115><br><sub>João Pedro</sub>](https://github.com/JoaoOliveira0117) |  [<img src="![image](https://user-images.githubusercontent.com/80927197/166117546-7bd0bd7d-1641-47eb-ad12-9faeaf439e84.png)" width=115><br><sub>Gabriel Mayan</sub>](https://github.com/Gabriel-Mayan) |
+| :---: | :---: | :---: |
 -
 
 #### - LETÍCIA SOARES
