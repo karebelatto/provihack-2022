@@ -16,7 +16,7 @@ Hackathon da Provi do 1° semestre de 2022
 * [Sobre o Site](#Sobre-o-site)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Tecnologias utilizadas](#Estruturação-e-Ferramentas)
-* [Back-end](#Configurando-Ambiente)
+* [Configurando o Ambiente](#Configurando-Ambiente)
 * [Pessoas Contribuidoras](#Contribuidores)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 
@@ -62,7 +62,6 @@ Venha pedalar com a gente, os seus pedais ajudam a salvar o mundo!
 #### FRONT-END
 -
 
-#### BACK-END
 - # Configurando Ambiente
 ## Docker e Conexão com o banco
 - Com o Docker Desktop rodando, abra o powershell como administrador e faça o pull da imagem: docker pull mysql
