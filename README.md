@@ -32,7 +32,7 @@ A ECycle resume nossa missão: somos uma equipe comprometida e unificada com a m
 
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-### Sobre o Site
+## Sobre o Site
  Cuidar do meio ambiente nunca foi tão fácil!
 
 Você já pensou que a cada pedalada que você dá na sua Bike, milhões de gramas de carbono deixam de ser emitidos na atmosfera?
@@ -41,7 +41,7 @@ Aqui você vai poder alugar uma Bike, acessar e salvar suas rotas favoritas, se 
 Venha pedalar com a gente, os seus pedais ajudam a salvar o mundo!
 
 
-### Funcionalidades e demonstração da Aplicação
+## Funcionalidades e demonstração da Aplicação
 
 - Clone este repositório em sua máquina
 
