@@ -12,7 +12,7 @@ Hackathon da Provi do 1° semestre de 2022
 </p>
 
 
-* [Tema](#Tema)
+
 * [Descrição do Projeto](#Descrição-do-Projeto)
 * [Sobre o Site](#Sobre-o-site)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
