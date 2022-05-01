@@ -1,0 +1,10 @@
+.info {
+    display: grid;
+    grid-template-columns: 150px, 150px;
+    grid-column: 300px;
+}
+
+.p {
+    font-family:'Segoe UI';
+
+}
