@@ -18,7 +18,7 @@ Hackathon da Provi do 1° semestre de 2022
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Tecnologias utilizadas](#Estruturação-e-Ferramentas)
 * [Configurando o Ambiente](#Configurando-Ambiente)
-* [Pessoas Contribuidoras](#Contribuidores)
+* [Contribuidores](#Contribuidores)
 * [Acesso ao Projeto](#acesso-ao-projeto)
 
 
