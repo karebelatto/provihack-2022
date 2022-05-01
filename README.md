@@ -72,4 +72,3 @@ Venha pedalar com a gente, os seus pedais ajudam a salvar o mundo!
 
 
 | [<img src="https://avatars.githubusercontent.com/u/80927197?s=400&u=f992e4cc01373b4153d3f17ad4de9c5f6cf62f1c&v=4" width=115><br><sub>Karine Rebelatto</sub>](https://github.com/karebelatto) |  [<img src="https://avatars.githubusercontent.com/u/46169735?v=4" width=115><br><sub>João Pedro</sub>](https://github.com/JoaoOliveira0117) |  [<img src="https://avatars.githubusercontent.com/u/80355504?v=4" width=115><br><sub>Gabriel Mayan</sub>](https://github.com/Gabriel-Mayan) |  
-| :---: | :---: |
