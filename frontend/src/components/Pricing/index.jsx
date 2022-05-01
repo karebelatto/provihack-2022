@@ -9,7 +9,10 @@ function Pricing() {
       <div className="pl-flex-container">
         <div className="pl-text">
           <h1>Planos</h1>
-          <p>Os melhores planos para você de acordo com suas necessidades</p>
+          <p>
+            Você já pensou que a cada pedalada que você dá na sua Bike, milhões
+            de gramas de carbono deixam de ser emitidos na atmosfera?
+          </p>
         </div>
         <div className="pl-pricing-grid">
           <Card title="Diário" value="5">

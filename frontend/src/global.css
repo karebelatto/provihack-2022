@@ -3,10 +3,14 @@
   --grey: #adadad;
   --light-grey: #f1eeee;
   --title: #333333;
+  --dark-blue: #0a4182;
+  --dark-green: #02b17d;
+  --purple: #6750a4;
+  --green: #05f0a5;
+  --lilac: #b197f7;
 }
 
 * {
-  background-color: var(--light-grey);
   margin: 0;
   padding: 0;
   font-family: "Archivo", sans-serif;

@@ -5,8 +5,8 @@
 
 .cc-container,
 .cc-container * {
-  background-color: var(--dark-grey);
-  color: white;
+  background-color: var(--light-grey);
+  color: (black);
 }
 
 .cc-container input,
@@ -64,8 +64,8 @@
 }
 
 .cc-button {
-  background-color: var(--grey);
-  color: black;
+  background-color: var(--purple);
+  color:white;
   font-size: 1.15rem;
   padding: 1rem 1.5rem;
 }
@@ -75,17 +75,21 @@
   font-size: 1.15rem;
 }
 
+.cc-title {
+  color: var(--purple);
+}
+
 .cc-contact-details p {
   margin: 2rem 0;
 }
 
 .cc-contact-social-media img {
-  background-color: var(--grey);
   width: 48px;
   border-radius: 15px;
   margin: 4rem 2rem 0 0;
   cursor: pointer;
   transition: filter 0.2s;
+  color: blue;
 }
 
 .cc-contact-social-media img:hover {

@@ -9,8 +9,14 @@
   margin: 2rem;
 }
 
+.pr-title {
+  color: var(--dark-green);
+}
+
 .pr-text button {
   margin-top: 8rem;
+  background-color: var(--purple);
+  color: white;
 }
 
 .pr-image-grid {

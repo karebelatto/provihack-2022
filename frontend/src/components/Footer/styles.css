@@ -1,9 +1,9 @@
 .foot-bar-container * {
-  background-color: var(--grey);
+  background-color: var(--green);
 }
 
 .foot-bar-container {
-  background-color: var(--grey);
+  background-color: var(--green);
 }
 
 .foot-logo {
