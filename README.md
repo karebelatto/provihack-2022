@@ -44,11 +44,11 @@ Venha pedalar com a gente, os seus pedais ajudam a salvar o mundo!
 
 ## Funcionalidades e demonstração da Aplicação
 
-<h3>Baixe o aplicativo no seu celular IOS ou Android.
-ALUGUEL DE BIKES:
-Faça o seu cadastro no app e escolha qual plano se enquadra melhor para você e suas necessidades. 
-Depois de escolher o plano, basta colocar as informações necessárias, achar o posto de parada mais próximo de você e começar a usar sua bike. <h3>
-*Caso queira pedalar mais do que o período do plano, será cobrada uma taxa de R$5,00 por hora. Para evitar a tarifa é necessário fazer um intervalo de 15 minutos entre cada viagem de até 60 minutos e devolver a bicicleta em um posto de parada.
+####Baixe o aplicativo no seu celular IOS ou Android.
+###ALUGUEL DE BIKES:
+#####Faça o seu cadastro no app e escolha qual plano se enquadra melhor para você e suas necessidades. 
+Depois de escolher o plano, basta colocar as informações necessárias, achar o posto de parada mais próximo de você e começar a usar sua bike. 
+*Caso queira pedalar mais do que o período do plano, será cobrada uma taxa de R$5,00 por hora. Para evitar a tarifa é necessário fazer um intervalo de 15 minutos entre cada viagem de até 60 minutos e devolver a bicicleta em um posto de parada.*
 
 
 - Clone este repositório em sua máquina
