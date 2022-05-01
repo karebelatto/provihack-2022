@@ -68,7 +68,7 @@ Venha pedalar com a gente, os seus pedais ajudam a salvar o mundo!
 -----
 
 
-## Contribuidores: 🧑‍🤝‍🧑
+## Contribuidores: 🧑‍🤝‍
 
 
 #### - LETÍCIA SOARES
