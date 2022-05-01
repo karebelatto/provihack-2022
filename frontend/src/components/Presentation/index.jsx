@@ -11,7 +11,7 @@ function Presentation() {
             Cuidar do meio ambiente nunca foi tão divertido!
           </h1>
           <p>
-            O ECycle chegou para revolucionar o uso das bikes e ajudar o nosso
+            O CBikes chegou para revolucionar o uso das bikes e ajudar o nosso
             planeta.{" "}
           </p>
           <p>
