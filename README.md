@@ -22,7 +22,7 @@ Hackathon da Provi do 1° semestre de 2022
 
 
 
-#### Descrição do Projeto
+### Descrição do Projeto
 <h1 align="center"> NOME DO PROJETO AQUI </h1>
 
 
@@ -40,7 +40,7 @@ Aqui você vai poder alugar uma Bike, acessar e salvar suas rotas favoritas, se 
 Venha pedalar com a gente, os seus pedais ajudam a salvar o mundo!
 
 
-#### Funcionalidades e demonstração da Aplicação
+### Funcionalidades e demonstração da Aplicação
 
 - Clone este repositório em sua máquina
 
