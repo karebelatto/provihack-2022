@@ -1,5 +1,9 @@
+.nav-bar-container * {
+  background-color: var(--grey);
+}
+
 .nav-bar-container {
-  background-color: var(--light-grey);
+  background-color: var(--grey);
   display: flex;
   justify-content: space-around;
 }
@@ -20,18 +24,18 @@
   width: 50%;
 }
 
-li {
+.nav-options-container li {
   padding: 0 4rem;
   font-size: 1.25rem;
   list-style-type: none;
 }
 
-li > a {
+.nav-options-container li > a {
   color: #000000;
   font-weight: bold;
   text-decoration: none;
 }
 
-li > a:hover {
+.nav-options-container li > a:hover {
   text-decoration: underline;
 }

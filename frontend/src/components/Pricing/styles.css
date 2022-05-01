@@ -1,0 +1,64 @@
+.pl-container {
+  margin-top: 5rem;
+}
+
+.pl-flex-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.pl-text {
+  width: 20%;
+  margin-left: 10rem;
+}
+
+.pl-pricing-grid {
+  width: 60%;
+  display: grid;
+  grid-template-columns: repeat(3, 33%);
+}
+
+.pl-pricing-card {
+  background-color: var(--dark-grey);
+  width: 18rem;
+  height: 43rem;
+  margin: auto;
+  padding: 2rem;
+  text-align: center;
+  color: white;
+}
+
+.pl-pricing-card * {
+  background-color: var(--dark-grey);
+}
+
+.pl-card-title {
+  font-size: 3rem;
+}
+
+.pl-card-value {
+  margin-top: 1rem;
+  font-size: 2rem;
+}
+
+.pl-card-container {
+  height: 345px;
+  margin: 5rem 0;
+}
+
+.pl-card-container * {
+  text-align: left;
+  margin: 1.5rem;
+  font-size: 1.5rem;
+  padding: 0;
+}
+
+.pl-card-tooltip {
+  color: var(--grey);
+}
+
+.pl-card-tooltip > p {
+  text-align: left;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+}
