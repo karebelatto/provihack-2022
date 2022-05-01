@@ -1,6 +1,7 @@
 .cc-container {
   margin-top: 6rem;
   padding: 4rem 0;
+  position: relative;
 }
 
 .cc-container,
@@ -102,4 +103,19 @@
 
 .cc-contact-social-media img:hover {
   filter: brightness(0.8);
+}
+
+.scroll-up-container {
+  position: absolute;
+  right: 1rem;
+  bottom: 1rem;
+}
+
+.scroll-up-button,
+.scroll-up-button * {
+  background-color: var(--purple);
+}
+
+.scroll-up-button {
+  padding: 1.25rem 1.75rem;
 }

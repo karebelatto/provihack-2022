@@ -2,6 +2,7 @@ import facebook from "../../res/social/facebook.svg";
 import instagram from "../../res/social/instagram.svg";
 import twitter from "../../res/social/twitter.svg";
 import linkedin from "../../res/social/linkedin.svg";
+import ScrollBackUpButton from "./ScrollBackUp";
 import "./styles.css";
 
 function ContactUs() {
@@ -26,7 +27,7 @@ function ContactUs() {
           </div>
         </div>
         <div className="cc-form">
-          <form>
+          <form onSubmit={(e) => e.preventDefault()}>
             <div className="cc-input-group">
               <label htmlFor="name" className="cc-label">
                 Nome:{" "}
@@ -42,6 +43,17 @@ function ContactUs() {
                 name="email"
                 className="cc-input"
                 type="email"
+              />
+            </div>
+            <div className="cc-input-group">
+              <label htmlFor="subject" className="cc-label">
+                Assunto:{" "}
+              </label>
+              <input
+                id="subject"
+                name="subject"
+                className="cc-input"
+                type="text"
               />
             </div>
             <div className="cc-textarea-group">
@@ -65,6 +77,7 @@ function ContactUs() {
           </form>
         </div>
       </div>
+      <ScrollBackUpButton />
     </div>
   );
 }
