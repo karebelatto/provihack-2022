@@ -19,7 +19,7 @@
 }
 
 .pl-pricing-card {
-  background-color: var(--dark-grey);
+  background-color: var(--green);
   width: 18rem;
   height: 43rem;
   margin: auto;
@@ -29,7 +29,8 @@
 }
 
 .pl-pricing-card * {
-  background-color: var(--dark-grey);
+  background-color: var(--green);
+  color: var(--dark-blue);
 }
 
 .pl-card-title {
@@ -51,10 +52,6 @@
   margin: 1.5rem;
   font-size: 1.5rem;
   padding: 0;
-}
-
-.pl-card-tooltip {
-  color: var(--grey);
 }
 
 .pl-card-tooltip > p {

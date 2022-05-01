@@ -1,5 +1,5 @@
 .au-container * {
-  background-color: var(--dark-grey);
+  background-color: var(--dark-blue);
   color: white;
 }
 
@@ -13,6 +13,10 @@
 .au-text {
   width: 30%;
   margin: 2rem;
+}
+
+.au-title {
+  color: var(--green);
 }
 
 .au-image {

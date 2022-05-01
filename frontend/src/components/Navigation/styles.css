@@ -1,9 +1,9 @@
 .nav-bar-container * {
-  background-color: var(--grey);
+  background-color: var(--purple);
 }
 
 .nav-bar-container {
-  background-color: var(--grey);
+  background-color: var(--purple);
   display: flex;
   justify-content: space-around;
 }
@@ -31,7 +31,7 @@
 }
 
 .nav-options-container li > a {
-  color: #000000;
+  color: white;
   font-weight: bold;
   text-decoration: none;
 }

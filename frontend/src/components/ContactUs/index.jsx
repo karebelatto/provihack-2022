@@ -8,6 +8,23 @@ function ContactUs() {
   return (
     <div className="cc-container">
       <div className="cc-flex-container">
+        <div className="cc-contact-details">
+          <h1 className="cc-title">Onde estamos localizados?</h1>
+          <p>
+            Endereço: R. Leonardo Bezerra Cavalcante, 240 - Jaqueira, Recife -
+            PE, 52060-030{" "}
+          </p>
+          <div>
+            contato@ecycle.com.br <br />
+            +55 (00) 000000000
+          </div>
+          <div className="cc-contact-social-media">
+            <img src={facebook} alt="Facebook" />
+            <img src={twitter} alt="Twitter" />
+            <img src={instagram} alt="Instagram" />
+            <img src={linkedin} alt="Linkedin" />
+          </div>
+        </div>
         <div className="cc-form">
           <form>
             <div className="cc-input-group">
@@ -46,20 +63,6 @@ function ContactUs() {
               </div>
             </div>
           </form>
-        </div>
-        <div className="cc-contact-details">
-          <h1>Fale conosco</h1>
-          <p>Entre em contato com a gente: </p>
-          <div>
-            contato@ecycle.com.br <br />
-            +55 (00) 000000000
-          </div>
-          <div className="cc-contact-social-media">
-            <img src={facebook} alt="Facebook" />
-            <img src={twitter} alt="Twitter" />
-            <img src={instagram} alt="Instagram" />
-            <img src={linkedin} alt="Linkedin" />
-          </div>
         </div>
       </div>
     </div>
