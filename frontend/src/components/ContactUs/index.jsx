@@ -44,6 +44,17 @@ function ContactUs() {
                 type="email"
               />
             </div>
+            <div className="cc-input-group">
+              <label htmlFor="subject" className="cc-label">
+                Assunto:{" "}
+              </label>
+              <input
+                id="subject"
+                name="subject"
+                className="cc-input"
+                type="text"
+              />
+            </div>
             <div className="cc-textarea-group">
               <label htmlFor="message" className="cc-label">
                 Deixe sua mensagem:{" "}
