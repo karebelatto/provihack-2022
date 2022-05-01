@@ -18,19 +18,26 @@
   grid-template-columns: repeat(3, 33%);
 }
 
-.pl-pricing-card {
+.pl-light,
+.pl-light * {
   background-color: var(--green);
+  color: var(--dark-blue);
+}
+
+.pl-dark,
+.pl-dark * {
+  background-color: var(--dark-blue);
+  color: var(--green);
+}
+
+.pl-pricing-card {
   width: 18rem;
   height: 43rem;
   margin: auto;
   padding: 2rem;
   text-align: center;
   color: white;
-}
-
-.pl-pricing-card * {
-  background-color: var(--green);
-  color: var(--dark-blue);
+  border-radius: 16px;
 }
 
 .pl-card-title {

@@ -1,4 +1,4 @@
-import Logo from "../../res/Logo.svg";
+import Logo from "../../res/Logo_2.svg";
 
 import "./styles.css";
 
