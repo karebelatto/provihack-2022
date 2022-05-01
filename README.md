@@ -101,7 +101,7 @@ Optei por instalar as dependencias que eu mais utilizo em meus projetos
 - Utilizarei containers docker para poder manter o servidor de banco de dados ativo
 - Todos os testes no backend foram feitos com o postman
 - Estaremos utilizando o DBeaver para rodar o banco de dados postgrees
-# Rotas e suas funções (Resumo)
+## Rotas e suas funções
 O projeto conta com X rotas, cada uma possunindo as seguintes caracteristicas
 
 
