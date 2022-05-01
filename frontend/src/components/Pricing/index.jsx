@@ -22,7 +22,7 @@ function Pricing() {
               <li>Acesso ao programa de recompensas</li>
             </ul>
           </Card>
-          <Card title="Mensal" value="25">
+          <Card title="Mensal" value="25" type="dark">
             <ul>
               <li>
                 Viagens ilimitadas de 60 minutos durante o período do plano.
