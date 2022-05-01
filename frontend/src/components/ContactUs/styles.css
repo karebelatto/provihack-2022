@@ -1,0 +1,93 @@
+.cc-container {
+  margin-top: 6rem;
+  padding: 4rem 0;
+}
+
+.cc-container,
+.cc-container * {
+  background-color: var(--dark-grey);
+  color: white;
+}
+
+.cc-container input,
+.cc-container textarea {
+  background-color: white;
+  border: 1px solid var(--light-grey);
+  color: black;
+  display: block;
+  padding: 0.325rem;
+  width: 100%;
+}
+
+.cc-container input:focus,
+.cc-container textarea:focus {
+  outline: none;
+}
+
+.cc-container textarea {
+  margin-top: 0.5rem;
+  resize: none;
+  height: 250px;
+  box-sizing: border-box;
+  border-bottom: none;
+}
+
+.cc-flex-container {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.cc-form {
+  width: 30%;
+}
+
+.cc-input-group {
+  margin: 0.5rem 0;
+  display: flex;
+  justify-content: space-between;
+  font-size: 1.25rem;
+}
+
+.cc-label {
+  margin: auto;
+  width: 25%;
+  font-size: 1.25rem;
+}
+
+.cc-textarea-container * {
+  background-color: white;
+}
+
+.cc-textarea-container > div {
+  padding: 1rem 0;
+  text-align: center;
+}
+
+.cc-button {
+  background-color: var(--grey);
+  color: black;
+  font-size: 1.15rem;
+  padding: 1rem 1.5rem;
+}
+
+.cc-contact-details {
+  width: 25%;
+  font-size: 1.15rem;
+}
+
+.cc-contact-details p {
+  margin: 2rem 0;
+}
+
+.cc-contact-social-media img {
+  background-color: var(--grey);
+  width: 48px;
+  border-radius: 15px;
+  margin: 4rem 2rem 0 0;
+  cursor: pointer;
+  transition: filter 0.2s;
+}
+
+.cc-contact-social-media img:hover {
+  filter: brightness(0.8);
+}

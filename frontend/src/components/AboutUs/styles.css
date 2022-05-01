@@ -1,0 +1,22 @@
+.au-container * {
+  background-color: var(--dark-grey);
+  color: white;
+}
+
+.au-flex-container {
+  margin-top: 6rem;
+  padding: 4rem 0;
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.au-text {
+  width: 30%;
+  margin: 2rem;
+}
+
+.au-image {
+  background-color: white;
+  width: 34%;
+  height: 20rem;
+}

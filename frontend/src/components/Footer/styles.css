@@ -1,0 +1,16 @@
+.foot-bar-container * {
+  background-color: var(--grey);
+}
+
+.foot-bar-container {
+  background-color: var(--grey);
+}
+
+.foot-logo {
+  margin-left: 4rem;
+}
+
+.foot-logo > img {
+  width: 3rem;
+  height: 3rem;
+}
