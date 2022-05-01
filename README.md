@@ -76,8 +76,11 @@ Venha pedalar com a gente, os seus pedais ajudam a salvar o mundo!
 
 #### - KARINE LIMA
 -
-[<img src="https://avatars.githubusercontent.com/u/80927197?v=4" width=115><br><sub>Karine Rebelatto</sub>](https://github.com/karebelatto) 
+[<img src="https://avatars.githubusercontent.com/u/80927197?v=4" width=115><br><sub>Karine Rebelatto</sub>](https://github.com/karebelatto)
+
 [<img src="https://avatars.githubusercontent.com/u/46169735?v=4" width=115><br><sub>João Pedro</sub>](https://github.com/JoaoOliveira0117)
+
 [<img src="https://avatars.githubusercontent.com/u/80355504?v=4" width=115><br><sub>Gabriel Mayan</sub>](https://github.com/Gabriel-Mayan) 
+
 [<img src="https://avatars.githubusercontent.com/u/62255306?v=4" width=115><br><sub>Dayana Guimarães</sub>](https://github.com/ChloeDanvers) 
 
