@@ -11,10 +11,10 @@
 		"migration:revert": "knex migrate:rollback",
 		"seed:run": "knex seed:run",
 		"seed:create": "knex seed:make",
-		"docker:rm": "docker rm provi-hack",
-		"docker:stop": "docker stop provi-hack",
-		"docker:run": "docker run -d -p 5432:5432 --name provi-hack -e POSTGRES_HOST_AUTH_METHOD=trust postgres:12-alpine",
-		"database:create": "docker exec provi-hack psql -U postgres postgres -c \"CREATE DATABASE provi-hack\""
+		"docker:rm": "docker rm provi",
+		"docker:stop": "docker stop provi",
+		"docker:run": "docker run -d -p 5432:5432 --name provi -e POSTGRES_HOST_AUTH_METHOD=trust postgres:12-alpine",
+		"database:create": "docker exec provi psql -U postgres postgres -c \"CREATE DATABASE provi\""
 	},
 	"dependencies": {
 		"bcrypt": "^5.0.1",
@@ -22,12 +22,13 @@
 		"date-fns": "^2.28.0",
 		"dotenv": "^14.3.2",
 		"eslint": "^8.4.1",
-		"eslint-plugin-import": "^2.25.3",
 		"eslint-config-airbnb-base": "^15.0.0",
+		"eslint-plugin-import": "^2.25.3",
 		"express": "^4.17.2",
 		"knex": "^1.0.1",
-		"pg": "^8.7.1",
 		"nodemon": "^2.0.14",
+		"pg": "^8.7.1",
+		"uuid": "^8.3.2",
 		"yup": "^0.32.11"
 	},
 	"keywords": [],
