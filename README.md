@@ -4,7 +4,7 @@ Hackathon da Provi do 1° semestre de 2022
 ![unnamed (1)](https://user-images.githubusercontent.com/80927197/166059633-974ec4c6-e85c-4bb4-8dbe-1ce2bbc450c0.jpg)
 
 
-## TEMA: COMO A TECNOLOGIA PODE COMBATER AS MUDANÇAS CLIMÁTICAS E SEUS IMPACTOS
+## Descrição do Projeto: COMO A TECNOLOGIA PODE COMBATER AS MUDANÇAS CLIMÁTICAS E SEUS IMPACTOS
 
 <p align="center">
 <img src="http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge"/>
