@@ -1,37 +1,3 @@
-import { useEffect } from 'react';
-import { Link } from 'react-router-dom';
-import { useStores } from '../../stores';
-
-import api from '../../services/api';
-
 export function Home() {
-  const { userStore: { products, setProducts } } = useStores();
-
-  const getProducts = async () => {
-    try {
-      const result = await api.get('/products');
-
-      if (result.status !== 200) {
-        throw 'Falha ao efetuar o login';
-      }
-
-      const { data } = result;
-      setProducts(data);
-    } catch (error) {
-      if (error.request) {
-        console.log('error', error.request.response);
-      }
-    }
-  };
-
-  useEffect(() => { getProducts(); }, []);
-
-  const productsInfo = products;
-
-  return (
-    <div>
-      home
-      <Link to="/register">Registre-se</Link>
-    </div>
-  );
+  return <h1>Hello World</h1>;
 }
