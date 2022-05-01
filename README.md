@@ -32,7 +32,7 @@ Hackathon da Provi do 1° semestre de 2022
 -
 
 ### Sobre o Site
-- Cuidar do meio ambiente nunca foi tão fácil!
+ Cuidar do meio ambiente nunca foi tão fácil!
 
 Você já pensou que a cada pedalada que você dá na sua Bike, milhões de gramas de carbono deixam de ser emitidos na atmosfera?
 É focado nisso que a  ECycle chegou para revolucionar o uso das bikes e ajudar o nosso planeta. 
