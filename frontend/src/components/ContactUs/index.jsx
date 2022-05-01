@@ -15,7 +15,7 @@ function ContactUs() {
             PE, 52060-030{" "}
           </p>
           <div>
-            contato@ecycle.com.br <br />
+            contato@CBikes.com.br <br />
             +55 (00) 000000000
           </div>
           <div className="cc-contact-social-media">

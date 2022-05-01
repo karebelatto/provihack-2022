@@ -18,7 +18,7 @@ function Pricing() {
           <Card title="Diário" value="5">
             <ul>
               <li>1 Viagem de 60 minutos</li>
-              <li>Acesso à plataforma do app ECycle</li>
+              <li>Acesso à plataforma do app CBikes</li>
               <li>Acesso ao programa de recompensas</li>
             </ul>
           </Card>
@@ -28,7 +28,7 @@ function Pricing() {
                 Viagens ilimitadas de 60 minutos durante o período do plano.
               </li>
               <li>R$5,00 a hora adicional</li>
-              <li>Acesso à plataforma do app ECycle</li>
+              <li>Acesso à plataforma do app CBikes</li>
               <li>Acesso ao programa de recompensas</li>
             </ul>
           </Card>
@@ -38,7 +38,7 @@ function Pricing() {
                 Viagens ilimitadas de 60 minutos durante o período do plano.
               </li>
               <li>R$5,00 a hora adicional</li>
-              <li>Acesso à plataforma do app ECycle</li>
+              <li>Acesso à plataforma do app CBikes</li>
               <li>Acesso ao programa de recompensas</li>
             </ul>
           </Card>
