@@ -57,7 +57,7 @@ Para começar o projeto instale no seu terminal
 
   ```$ npx create-react-app nome-do-documento ```
   
-  ```npm install react-router-dom@6 ```
+  ```$ npm install react-router-dom@6 ```
   
   
  
