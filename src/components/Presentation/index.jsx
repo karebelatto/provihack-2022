@@ -7,6 +7,9 @@ import image03 from "../../res/img/app_03.png";
 import "./styles.css";
 
 function Presentation() {
+  const link =
+    "https://www.figma.com/proto/y1lQ6q0AK3LcnASv2XLXjP/ProviHack?page-id=2%3A3&node-id=42%3A1783&viewport=241%2C48%2C0.22&scaling=scale-down&starting-point-node-id=42%3A1783&show-proto-sidebar=1";
+
   return (
     <div className="pr-container">
       <div className="pr-flex-container">
@@ -26,7 +29,11 @@ function Presentation() {
             em nossas empresas parceiras.
           </p>
 
-          <button>Eu quero conhecer o app</button>
+          <div className="button-container">
+            <a className="button" href={link} target="_blank">
+              Eu quero conhecer o app
+            </a>
+          </div>
         </div>
         <div className="pr-image-grid">
           <img src={image01} alt="app image 01" />
