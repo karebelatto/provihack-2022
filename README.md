@@ -47,20 +47,30 @@ Venha pedalar com a gente, os seus pedais ajudam a salvar o mundo!
 
 _Caso queira pedalar mais do que o período do plano, será cobrada uma taxa de R$5,00 por hora. Para evitar a tarifa é necessário fazer um intervalo de 15 minutos entre cada viagem de até 60 minutos e devolver a bicicleta em um posto de parada._
 
-<!-- ##### Clone este repositório em sua máquina
+ ##### Clone este repositório em sua máquina
+  
+## React 
 
-<!-- $  --> 
+install
+
+ $ npx create-react-app nome-do-documento
+ 
+ 
+ import React from 'react';
+import rdmd from '@readme/markdown';
+
+export default ({ body }) => (
+  <div className="markdown-body">
+    {rdmd(body)}
+  </div>
+);
+ 
 
 ### Estruturação e Ferramentas
 
 
 - # Configurando Ambiente
 
-## React 
-
-install
-
- $ npx create-react-app nome-do-documento
 
 ## Docker e Conexão com o banco
 
