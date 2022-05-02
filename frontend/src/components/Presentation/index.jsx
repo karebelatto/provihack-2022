@@ -1,5 +1,9 @@
 import React from "react";
 
+import image01 from "../../res/img/app_01.png";
+import image02 from "../../res/img/app_02.png";
+import image03 from "../../res/img/app_03.png";
+
 import "./styles.css";
 
 function Presentation() {
@@ -25,9 +29,9 @@ function Presentation() {
           <button>Eu quero conhecer o app</button>
         </div>
         <div className="pr-image-grid">
-          <div className="pr-box" />
-          <div className="pr-box" />
-          <div className="pr-box" />
+          <img src={image01} alt="app image 01" />
+          <img src={image02} alt="app image 01" />
+          <img src={image03} alt="app image 01" />
         </div>
       </div>
     </div>
