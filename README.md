@@ -121,15 +121,15 @@ O projeto conta com X rotas, cada uma possunindo as seguintes caracteristicas
 
 #### - LETÍCIA SOARES
 
--
+- UX/UI
 
 #### - KARINE LIMA
 
--
+- PM
 
 #### - DAYANA GUIMARÃES
 
--
+- UX/UI
 
 [<img src="https://avatars.githubusercontent.com/u/80355504?v=4" width=115><br><sub>Gabriel Mayan</sub>](https://github.com/Gabriel-Mayan)
 
