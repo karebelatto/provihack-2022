@@ -110,18 +110,13 @@ Optei por instalar as dependencias que eu mais utilizo em meus projetos
 
 ## Ferramentas utlizadas
 
-- O editor de código utilizado é o VS Code
-- Utilizarei containers docker para poder manter o servidor de banco de dados ativo
-- Todos os testes no backend foram feitos com o postman
-- Estaremos utilizando o DBeaver para rodar o banco de dados postgrees
-
-## Rotas e suas funções
-
-O projeto conta com X rotas, cada uma possunindo as seguintes caracteristicas
+- O editor de código utilizado é o VS Code.
+- ReactJS, HTML, CSS e Javascript.
+- Figma.
 
 ##### Acesso ao Projeto
 
----
+https://cbikes.vercel.app/home
 
 # Contribuidores:
 
