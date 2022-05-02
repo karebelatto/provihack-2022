@@ -147,3 +147,6 @@ O projeto conta com X rotas, cada uma possunindo as seguintes caracteristicas
 [<img src="https://avatars.githubusercontent.com/u/46169735?v=4" width=115><br><sub>João Pedro</sub>](https://github.com/JoaoOliveira0117)
 
 [<img src="https://avatars.githubusercontent.com/u/80927197?v=4" width=115><br><sub>Karine Rebelatto</sub>](https://github.com/karebelatto)
+
+<img width="547" alt="foto" src="https://user-images.githubusercontent.com/80927197/166175052-54bbac1e-58b7-494a-861a-9c1e566f3af9.png">
+
