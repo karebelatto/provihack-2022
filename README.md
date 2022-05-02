@@ -53,9 +53,9 @@ _Caso queira pedalar mais do que o período do plano, será cobrada uma taxa de 
 
 install
 
- < $ npx create-react-app nome-do-documento >
+  ```$ npx create-react-app nome-do-documento ```
  
- <comando_de_instalação>
+
 
 ### Estruturação e Ferramentas
 
