@@ -13,12 +13,6 @@
   color: var(--dark-green);
 }
 
-.pr-text button {
-  margin-top: 8rem;
-  background-color: var(--purple);
-  color: white;
-}
-
 .pr-image-grid {
   display: grid;
   grid-template-columns: repeat(3, 16rem);
@@ -28,4 +22,25 @@
 .pr-image-grid img {
   height: 35rem;
   width: 100%;
+}
+
+.button-container {
+  margin-top: 8rem;
+}
+
+.button {
+  color: white;
+  border: none;
+  border-radius: 1.5rem;
+  background-color: var(--purple);
+  font-size: 1.5rem;
+  font-weight: bold;
+  padding: 1.5rem 2.5rem;
+  text-decoration: none;
+  transition: filter 0.2s;
+}
+
+.button:hover {
+  filter: brightness(0.8);
+  cursor: pointer;
 }
