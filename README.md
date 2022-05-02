@@ -56,6 +56,12 @@ _Caso queira pedalar mais do que o período do plano, será cobrada uma taxa de 
 
 - # Configurando Ambiente
 
+## React 
+
+install
+
+ $ npx create-react-app nome-do-documento
+
 ## Docker e Conexão com o banco
 
 - Com o Docker Desktop rodando, abra o powershell como administrador e faça o pull da imagem: docker pull mysql
