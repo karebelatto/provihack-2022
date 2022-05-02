@@ -49,7 +49,7 @@ _Caso queira pedalar mais do que o período do plano, será cobrada uma taxa de 
 
 <!-- ##### Clone este repositório em sua máquina
 
-<!-- $  --> -->
+<!-- $  --> 
 
 ### Estruturação e Ferramentas
 
