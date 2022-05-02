@@ -51,7 +51,9 @@ _Caso queira pedalar mais do que o período do plano, será cobrada uma taxa de 
   
 ## React.JS
 
-- install
+- install 
+
+Para começar o projeto instale no seu terminal
 
   ```$ npx create-react-app nome-do-documento ```
   
