@@ -128,6 +128,7 @@ O projeto conta com X rotas, cada uma possunindo as seguintes caracteristicas
 
 - UX/UI
 
+### Desenvolvedores
 [<img src="https://avatars.githubusercontent.com/u/80355504?v=4" width=115><br><sub>Gabriel Mayan</sub>](https://github.com/Gabriel-Mayan)
 
 [<img src="https://avatars.githubusercontent.com/u/46169735?v=4" width=115><br><sub>João Pedro</sub>](https://github.com/JoaoOliveira0117)
