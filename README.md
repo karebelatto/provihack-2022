@@ -47,15 +47,12 @@ Venha pedalar com a gente, os seus pedais ajudam a salvar o mundo!
 
 _Caso queira pedalar mais do que o período do plano, será cobrada uma taxa de R$5,00 por hora. Para evitar a tarifa é necessário fazer um intervalo de 15 minutos entre cada viagem de até 60 minutos e devolver a bicicleta em um posto de parada._
 
-##### Clone este repositório em sua máquina
+<!-- ##### Clone este repositório em sua máquina
 
-<!-- $  -->
+<!-- $  --> -->
 
 ### Estruturação e Ferramentas
 
-#### FRONT-END
-
--
 
 - # Configurando Ambiente
 
