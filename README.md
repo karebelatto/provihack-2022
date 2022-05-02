@@ -117,7 +117,7 @@ O projeto conta com X rotas, cada uma possunindo as seguintes caracteristicas
 
 ---
 
-## Contribuidores:
+# Contribuidores:
 
 #### - LETÍCIA SOARES
 
