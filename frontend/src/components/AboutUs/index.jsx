@@ -1,3 +1,4 @@
+import AboutUsImg from "../../res/img/about-us.png";
 import "./styles.css";
 
 function AboutUs() {
