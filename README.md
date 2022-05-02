@@ -49,11 +49,15 @@ _Caso queira pedalar mais do que o período do plano, será cobrada uma taxa de 
 
  ##### Clone este repositório em sua máquina
   
-## React 
+## React.JS
 
 - install
 
   ```$ npx create-react-app nome-do-documento ```
+  
+  ```npm install react-router-dom@6 ```
+  
+  
  
 
 
